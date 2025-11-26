@@ -1,6 +1,4 @@
-# 🚗 PiStation
-
----
+# 🚗 PyTito
 
 Nuestro carrito **omnidireccional** que se controla con un mando de PS4 vía **Bluetooth**
 
